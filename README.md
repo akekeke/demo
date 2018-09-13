@@ -2,9 +2,7 @@
 
 where the fake data is:
 
-[https://my-json-server.typicode.com/akekeke/demo]
-
-(https://my-json-server.typicode.com/akekeke/demo)
+[https://my-json-server.typicode.com/akekeke/tfcdemodata](https://my-json-server.typicode.com/akekeke/demo)
 
 for more info and where i forked this from:
 
